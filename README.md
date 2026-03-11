@@ -43,13 +43,13 @@ The `Emails/` and `Emails Round/` folders contain the submission emails to be us
 - **AI/LLM:** Use of an LLM is a key capability being evaluated — an Anthropic API key will be provided
 - **Deployment:** Local machine, or private/secure public cloud
 
-A brief explanation of your solution architecture should be included in your README.
+A brief explanation of your solution architecture should be included in your Solution-README.
 
 ---
 
 ## Submission
 
-When complete, upload your solution to this repository. A walkthrough and live demo session will be scheduled, during which new data will be provided to run through the solution. Results quality and performance will be observed.
+When complete, upload your solution to this repository. A walkthrough and live demo session will be scheduled, during which new data will be provided to run through the solution. Tyhe quality of teh results and performance will be observed and evaluated. 
 
 A code review will be conducted prior to the demo session.
 
