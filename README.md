@@ -49,7 +49,7 @@ A brief explanation of your solution architecture should be included in your Sol
 
 ## Submission
 
-When complete, upload your solution to this repository. A walkthrough and live demo session will be scheduled, during which new data will be provided to run through the solution. Tyhe quality of teh results and performance will be observed and evaluated. 
+When complete, upload your solution to this repository. A walkthrough and live demo session will be scheduled, during which new data will be provided to run through the solution. The quality of the results and performance of the solution will be evaluated. 
 
 A code review will be conducted prior to the demo session.
 
