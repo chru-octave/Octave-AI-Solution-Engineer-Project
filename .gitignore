@@ -1,0 +1,43 @@
+# Project-specific
+Emails/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Environment and secrets
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
