@@ -41,3 +41,9 @@ npm-debug.log*
 # Temporary files
 *.tmp
 *.bak
+
+# Generated data — never commit
+octave-submission-intelligence/data/**
+
+# Keep only the data folder placeholder
+!octave-submission-intelligence/data/.gitkeep
